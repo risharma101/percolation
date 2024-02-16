@@ -9,4 +9,4 @@
 ![](test_files/java60.png)
 
 #### Video Demo
-![](https://github.com/risharma101/percolation/assets/52262619/85ed9223-4768-4460-a528-dfbcfc768a23)
+![link](https://github.com/risharma101/percolation/assets/52262619/85ed9223-4768-4460-a528-dfbcfc768a23)
